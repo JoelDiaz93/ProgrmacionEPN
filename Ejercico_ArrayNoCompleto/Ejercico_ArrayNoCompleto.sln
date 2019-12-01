@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ejercico_ArrayNoCompleto", "Ejercico_ArrayNoCompleto\Ejercico_ArrayNoCompleto.vcxproj", "{37398AFB-A094-4682-AA0B-10ABE61F9F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Debug|x64.ActiveCfg = Debug|x64
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Debug|x64.Build.0 = Debug|x64
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Debug|x86.ActiveCfg = Debug|Win32
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Debug|x86.Build.0 = Debug|Win32
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Release|x64.ActiveCfg = Release|x64
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Release|x64.Build.0 = Release|x64
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Release|x86.ActiveCfg = Release|Win32
+		{37398AFB-A094-4682-AA0B-10ABE61F9F37}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BED2FF-4004-49CA-8781-1A7913617E10}
+	EndGlobalSection
+EndGlobal
